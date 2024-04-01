@@ -1,8 +1,11 @@
-# Aprendizado por Projeto Integrado (API)
+# ESPHERA LOGITECH
+The word in our hands! | O mundo em nossas mãos!
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
+Uma empresa especializada em fornececer soluções logísticas tecnológicas e ambientais, cujo objetivo é compreender as necessidades para melhor atendê-las. 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Nossa missão é estabelecer-nos como uma referência global em soluções logísticas e tecnológicas, com o objetivo de simplificar o transporte e o armazenamento de cargas, priorizando a sustentabilidade e a otimização de custos, garantindo ao mesmo tempo a máxima rentabilidade possível.
+
+Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estreito relacionamento com clientes internos e externos, e no apoio a projetos socioambientais.
 
 # Índice
 
