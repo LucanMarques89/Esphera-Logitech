@@ -1,4 +1,4 @@
-# ESPHERA LOGITECH
+# ESPHERA LOGITEC
 The word in our hands! | O mundo em nossas mãos!
 
 Uma empresa especializada em fornececer soluções logísticas tecnológicas e ambientais, cujo objetivo é compreender as necessidades para melhor atendê-las. 
