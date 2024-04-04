@@ -20,7 +20,7 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O projeto API tem como objetivo principal mapear cargas a seres exportadas via modal aéreo através do aeroporto de São José dos Campos LTDA (SJK AIrport).
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
