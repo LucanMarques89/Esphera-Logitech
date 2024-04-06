@@ -9,7 +9,7 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [Esphera Logitech](#Esphera-Logitech)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
@@ -44,11 +44,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Jira Software
- > Github
- > Power BI
- > Slack
- > Pacote Office
+ > *Jira Software
+ > *Github
+ > *Power BI
+ > *Slack
+ > *Pacote Office
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
