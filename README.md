@@ -54,6 +54,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  > * Power BI
  > * Slack
  > * Pacote Office
+>  * Canva
+>  * Chat GPT
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
