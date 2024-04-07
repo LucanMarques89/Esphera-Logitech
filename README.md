@@ -1,3 +1,8 @@
+<!-- ## Ola, somos a Esphera Logitech, muito prazer! :sparkles: -->
+<p align="center">
+<img alt="Banner de boas vindas" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+
 # ESPHERA LOGITECH
 The word in our hands! | O mundo em nossas mãos!
 
