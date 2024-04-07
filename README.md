@@ -1,6 +1,6 @@
 <!-- ## Ola, somos a Esphera Logitech, muito prazer! :sparkles: -->
 <p align="center">
-<img alt="Banner de boas vindas" src="./Esphera Logitech (1280 x 640).png" />
+<img alt="Banner de boas vindas" src="./Bunner02.png" />
 </p>
 
 # ESPHERA LOGITECH
