@@ -49,11 +49,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > *Jira Software
- > *Github
- > *Power BI
- > *Slack
- > *Pacote Office
+ > * Jira Software
+ > * Github
+ > * Power BI
+ > * Slack
+ > * Pacote Office
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
