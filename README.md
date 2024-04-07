@@ -93,10 +93,7 @@ Requisitos não funcionais
     
 
 
-<!-- ## Backlog do produto! :sparkles: -->
-<p align="center">
-  <img alt="Backlog do produto" src="./Backlog do Produto.png" />
-</p>
+
 
 
 
