@@ -92,9 +92,12 @@ Requisitos não funcionais
 <div align="center">
     
 
-![product backlog](Backlog do Produto.png)
-![sprint backlog](Backlogdas Sprints.png)
-</div>
+
+<!-- ## Backlog do produto! :sparkles: -->
+<p align="center">
+  <img alt="Backlog do produto" src="./Backlog do Produto.png" />
+</p>
+
 
 
 
