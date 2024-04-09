@@ -126,33 +126,31 @@ Requisitos não funcionais
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Power BI (introdução)
-- [ ] Mapeamento aéreo 
+- [ ] Power BI (introdução);
+- [ ] Mapeamento aéreo;
+- [ ] Setores de Atividades dos transporte aéreos (material de transporte das transportadoras).
+
       
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+      
       
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Dashbord;
+- [ ] Modelo de Logística aeronáutico (frete e custos logisticos)
+    
+     
+  
+     
+     
+     
+
       
 ## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [] Apresentação Final;
+- [] Valor FOB / Agregado;
+- [] Margem de Lucro;
+- [ ] Custos Logísticos;
+- [ ] Tipos de Veículos e Aviões utilizados.
+  
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
