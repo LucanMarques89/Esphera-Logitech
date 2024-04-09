@@ -120,13 +120,13 @@ Requisitos não funcionais
 - [x] Apredizado para desenvolvimento do Jira Software;
 - [x] Estruturação do Jira Software;
 - [x] Montagem da Backlog das Sprints;
-- [ ] Relatório final das pesquisasrealizadas;
+- [x] Relatório final das pesquisas realizadas;
 - [ ] Aprendizagem inicial do Power BI;
 - [ ] Analise primaria dos Arquivos;
-- [ ] GitHub individual;
-- [ ] Linkedin individual;
+- [x] GitHub individual;
+- [x] Linkedin individual;
 - [ ] Montagem final da apresentação da Sprint 01;
-- [ ] Atribuições das Atividades para a Sprints 02,03,04.
+- [x] Atribuições das Atividades para a Sprints 02,03,04.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Power BI (introdução);
