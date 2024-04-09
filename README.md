@@ -126,9 +126,9 @@ Requisitos não funcionais
 - [ ] Finalize e aprovação.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
+- [ ] Power BI (introdução)
+- [ ] Mapeamento aéreo 
+      
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
