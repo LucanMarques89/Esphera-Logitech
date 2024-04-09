@@ -115,15 +115,18 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Aprendizado para desenvolvimento do GuitHub;
+- [x] Estruturaçãodo GuitHub;
+- [x] Apredizado para desenvolvimento do Jira Software;
+- [x] Estruturação do Jira Software;
+- [x] Montagem da Backlog das Sprints;
+- [ ] Relatório final das pesquisasrealizadas;
+- [ ] Aprendizagem inicial do Power BI;
+- [ ] Analise primaria dos Arquivos;
+- [ ] GitHub individual;
+- [ ] Linkedin individual;
+- [ ] Montagem final da apresentação da Sprint 01;
+- [ ] Atribuições das Atividades para a Sprints 02,03,04.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Power BI (introdução);
@@ -145,9 +148,9 @@ Requisitos não funcionais
 
       
 ## Sprint 4. Operacionalização
-- [] Apresentação Final;
-- [] Valor FOB / Agregado;
-- [] Margem de Lucro;
+- [ ] Apresentação Final;
+- [ ] Valor FOB / Agregado;
+- [ ] Margem de Lucro;
 - [ ] Custos Logísticos;
 - [ ] Tipos de Veículos e Aviões utilizados.
   
