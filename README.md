@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00| 25/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01| 15/04/2024 | em progresso |[Ver Relatório]([https://github.com/LucanMarques89/Esphera-Logitech/blob/main/RELAT%C3%93RIO%20FINALIZADO%20SPRINT%201%20-%20ESPHERA%20LOGITECH.pdf) | 
+|01| 15/04/2024 | em progresso |[Ver Relatório]([[https://github.com/LucanMarques89/Esphera-Logitech/blob/main/.img/RELAT%C3%93RIO%20FINALIZADO%20SPRINT%201%20-%20ESPHERA%20LOGITECH.docx)) | 
 |02| 06/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/05/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
