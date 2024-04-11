@@ -98,7 +98,7 @@ Requisitos não funcionais
 
 <!-- ## Backlog das Sprints! :sparkles: -->
 <p align="center">
-  <img alt="Backlog das Sprints" src="./Backlogdas Sprints.png" />
+  <img alt="Backlog das Sprints" src="./Backlog das Sprints.png" />
 </p>
 
 
