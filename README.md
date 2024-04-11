@@ -91,14 +91,14 @@ Requisitos não funcionais
   
 # Backlog do produto
   
-<!-- ## Backlog do produto! :sparkles: -->
+<!-- ## Backlof do produto! :sparkles: -->
 <p align="center">
   <img alt="Backlog do produto" src="./Backlog do Produto.png" />
 </p>
 
 <!-- ## Backlog das Sprints! :sparkles: -->
 <p align="center">
-  <img alt="Backlog das Sprinmts" src="./Backlogdas Sprints.png" />
+  <img alt="Backlog das Sprints" src="./Backlogdas Sprints.png" />
 </p>
 
 
