@@ -39,10 +39,11 @@ O projeto API tem como objetivo principal mapear cargas a seres exportadas via m
 |  Team Member  | Rubens Silva       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-filho-53b92a1a1?)   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rubensfatec31)          |
 
 # Objetivo do Projeto
-1.	Objetivos do projeto
 Os objetivos definidos para esse projeto compõem-se em: 
-i)	Desenvolver pesquisas qualitativas e consistentes para a introdução da movimentação de cargas no setor aeronáutico de São José dos Campos – São Paulo, indicando as cargas com alto valor rentável e, possíveis cargas que ainda não são transportadas pelo setor e possam ser transportadas;
-ii)	Estruturação de plataformas necessárias para a organização do projeto, com foco no dinamismo, transparência e simplicidade na visualização de dados.
+
+* Desenvolver pesquisas qualitativas e consistentes para a introdução da movimentação de cargas no setor aeronáutico de São José dos Campos – São Paulo, indicando as cargas com alto valor rentável e, possíveis cargas que ainda não são transportadas pelo setor e possam ser transportadas;
+
+* Estruturação de plataformas necessárias para a organização do projeto, com foco no dinamismo, transparência e simplicidade na visualização de dados.
 
 ## Tecnologias Utilizadas
 
