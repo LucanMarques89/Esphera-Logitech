@@ -130,21 +130,11 @@ Requisitos não funcionais
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Power BI (introdução);
 - [ ] Mapeamento aéreo;
-- [ ] Setores de Atividades dos transporte aéreos (material de transporte das transportadoras).
-
-      
-      
+- [ ] Setores de Atividades dos transporte aéreos (material de transporte das transportadoras).    
       
 ## Sprint 3 . Implementação
 - [ ] Dashbord;
 - [ ] Modelo de Logística aeronáutico (frete e custos logisticos)
-    
-     
-  
-     
-     
-     
-
       
 ## Sprint 4. Operacionalização
 - [ ] Apresentação Final;
@@ -153,16 +143,6 @@ Requisitos não funcionais
 - [ ] Custos Logísticos;
 - [ ] Tipos de Veículos e Aviões utilizados.
   
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
