@@ -47,7 +47,7 @@ Os objetivos definidos para esse projeto compõem-se em:
 
 ## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
+ ### Tecnologias da Informação
  > * Jira Software
  > * Github
  > * Power BI
@@ -56,8 +56,7 @@ Os objetivos definidos para esse projeto compõem-se em:
 >  * Canva
 >  * Chat GPT
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
 
 # Sprints
 
@@ -114,7 +113,7 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
-- [x] Aprendizado para desenvolvimento do GuitHub;
+- [x] Aprendizado para desenvolvimento do GitHub;
 - [x] Estruturaçãodo GuitHub;
 - [x] Apredizado para desenvolvimento do Jira Software;
 - [x] Estruturação do Jira Software;
