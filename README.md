@@ -142,6 +142,13 @@ Requisitos não funcionais
 - [ ] Custos Logísticos;
 - [ ] Tipos de Veículos e Aviões utilizados.
   
+
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Esphera Logitech (1280 x 640).png" />
+</p>
+
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
