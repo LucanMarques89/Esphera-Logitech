@@ -18,8 +18,8 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#sprints)
-* [Burndown](#burndown)
 * [Backlog](#backlog-do-produto)
+* [Burndown](#burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -68,26 +68,11 @@ Sprint | Previsão | Status| Histórico|
 |03| 27/05/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-## Gestão do Projeto
+# Gestão do Projeto
 
 Na gestão do projeto nós atribuímos as atividades à serem realizadas ao longo das sprints através do Jira Software e assim obtivemos a estrutura fundamental para a realização do produto a ser entregue.
- [Clique aqui](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50) e tenha acesso ao noso Backlog e cronograma das sprints.
+ [Clique aqui](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50) e tenha acesso ao noso Backlog e Cronograma das sprints.
 
-
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
 # Backlog do produto
   
 <!-- ## Backlof do produto! :sparkles: -->
@@ -101,14 +86,6 @@ Requisitos não funcionais
 </p>
 
 
-
-
-
-
-
-
-
-
 # Burndown
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
@@ -120,11 +97,11 @@ Requisitos não funcionais
 - [x] Estruturação do Jira Software;
 - [x] Montagem da Backlog das Sprints;
 - [x] Relatório final das pesquisas realizadas;
-- [ ] Aprendizagem inicial do Power BI;
-- [ ] Analise primaria dos Arquivos;
+- [x] Aprendizagem inicial do Power BI;
+- [x] Analise primaria dos Arquivos;
 - [x] GitHub individual;
 - [x] Linkedin individual;
-- [ ] Montagem final da apresentação da Sprint 01;
+- [x] Montagem final da apresentação da Sprint 01;
 - [x] Atribuições das Atividades para a Sprints 02,03,04.
 
 ## Sprint 2. Desenvolvimento do Projeto
