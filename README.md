@@ -68,10 +68,10 @@ Sprint | Previsão | Status| Histórico|
 |03| 27/05/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+## Gestão do Projeto
 
-#### Cronograma das Sprints [(clique aqui)](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50)
+Na gestão do projeto nós atribuímos as atividades à serem realizadas ao longo das sprints através do Jira Software e assim obtivemos a estrutura fundamental para a realização do produto a ser entregue.
+ [Clique aqui](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50) e tenha acesso ao noso Backlog e cronograma das sprints.
 
 
 
