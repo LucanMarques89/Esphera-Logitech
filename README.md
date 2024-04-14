@@ -72,7 +72,9 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints [(clique aqui)](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50)
+
+
 
 # Requisitos
 
