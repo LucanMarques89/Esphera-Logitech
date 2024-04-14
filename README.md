@@ -14,13 +14,12 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 
 # Índice
 
-* [Esphera Logitech](#ESPHERA LOGITECH)
+* [Esphera Logitech](#esphera-logitech)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Sprints](#sprints)
+* [Burndown](#burndown)
+* [Backlog](#backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
