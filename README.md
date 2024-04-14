@@ -14,7 +14,7 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 
 # Índice
 
-* [Esphera Logitech](#Esphera-Logitech)
+* [Esphera Logitech](#ESPHERA LOGITECH)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
