@@ -76,7 +76,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 # Backlog do produto
 
 <!-- ## Backlof do produto! :sparkles: -->
-https://drive.google.com/file/d/1DWYDH_4WjfDpb7QWKvMboejwxTcXJYJi/view?usp=drivesdk
+<img alt="Backlog do produto" src="./Backlog do produto.jpg" />
   <img alt="Backlog das Sprints" src="./Backlog das Sprints.png" />
 </p>
 
