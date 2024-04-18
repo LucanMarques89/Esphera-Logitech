@@ -81,8 +81,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 </p>
 
 
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+
 
 
 ## Sprint 1. Concepção
