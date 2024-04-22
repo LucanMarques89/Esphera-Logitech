@@ -97,7 +97,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 - [x] Atribuições das Atividades para a Sprints 02,03,04.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Power BI (introdução);
+- [x] Power BI (introdução);
 - [ ] Mapeamento aéreo;
 - [ ] Setores de Atividades dos transporte aéreos (material de transporte das transportadoras).    
       
