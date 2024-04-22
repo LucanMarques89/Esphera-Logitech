@@ -62,8 +62,9 @@ Os objetivos definidos para esse projeto compõem-se em:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01| 15/04/2024 | concluído | [Ver Relatório](https://docs.google.com/document/d/1AmRol6xZsHtZ5m1bv4k6zb7-HmuuqM6j/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true) 
-|02| 06/05/2024 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 27/05/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|02| 06/05/2024 | em progresso |[Ver Relatório]("C:\Users\Fatec\Documents\anexo_8_modelo_relatorio_projeto_integrador_log.docx") | 
+|03| 27/05/2024 |a fazer |[Ver Relatório]("C:\Users\Fatec\Documents\anexo_8_modelo_relatorio_projeto_integrador_log.docx")  | 
+|04| 27/05/2024 |a fazer |[Ver Relatório]("C:\Users\Fatec\Documents\anexo_8_modelo_relatorio_projeto_integrador_log.docx")  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Gestão do Projeto
