@@ -99,18 +99,13 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Power BI (introdução);
 - [ ] Mapeamento aéreo;
-- [ ] Setores de Atividades dos transporte aéreos (material de transporte das transportadoras).    
+- [ ] Desenvolver painel principal.    
       
 ## Sprint 3 . Implementação
-- [ ] Dashbord;
-- [ ] Modelo de Logística aeronáutico (frete e custos logisticos)
+- [ ] Prospecção de possíveis cargas 
       
 ## Sprint 4. Operacionalização
 - [ ] Apresentação Final;
-- [ ] Valor FOB / Agregado;
-- [ ] Margem de Lucro;
-- [ ] Custos Logísticos;
-- [ ] Tipos de Veículos e Aviões utilizados.
   
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
