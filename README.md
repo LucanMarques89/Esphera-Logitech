@@ -103,6 +103,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
       
 ## Sprint 3 . Implementação
 - [ ] Prospecção de possíveis cargas 
+- [ ] Integrar dados de vendas ao dashboard principal
       
 ## Sprint 4. Operacionalização
 - [ ] Apresentação Final;
