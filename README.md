@@ -98,7 +98,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Power BI (introdução);
-- [ ] Mapeamento aéreo;
+- [x] Mapeamento aéreo;
 - [ ] Desenvolver painel principal.    
       
 ## Sprint 3 . Implementação
