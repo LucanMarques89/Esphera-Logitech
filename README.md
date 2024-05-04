@@ -78,6 +78,12 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
   <img alt="Backlog das sprints" src="./Backlog das sprints.jpg" />
 </p>
 
+# Gráfico Burndown
+
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Grafico Burndown.jpeg" />
+</p>
 
 
 
