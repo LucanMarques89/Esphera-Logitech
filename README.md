@@ -74,7 +74,7 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 # Backlog do produto
 
 <!-- ## Backlof do produto! :sparkles: -->
-<img alt="Backlog do produto" src="./backlog do produto Sprint2_20240504_171508_0000.jpg" />
+<img alt="Backlog do produto" src="./backlog do produto Sprint2_20240504_171508_0000.png" />
   <img alt="Backlog das sprints" src="./Backlog das sprints.jpg" />
 </p>
 
