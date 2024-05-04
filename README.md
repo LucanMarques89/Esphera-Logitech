@@ -19,7 +19,7 @@ Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estr
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#sprints)
 * [Backlog](#backlog-do-produto)
-* [Burndown](#burndown)
+* [Gráfico Burndown](#gráfico-burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
