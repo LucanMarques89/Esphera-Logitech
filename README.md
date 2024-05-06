@@ -75,6 +75,13 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 
 <!-- ## Backlof do produto! :sparkles: -->
 <img alt="Backlog do produto" src="./quebacklog do produto Sprint 2_20240504_172118_0000.pdf" />
+  <img alt="Backlog das sprints" src="./Backlog_do_produto02jpeg.jpeg" />
+</p>
+
+
+
+<!-- ## Backlof do produto! :sparkles: -->
+<img alt="Backlog do produto" src="./quebacklog do produto Sprint 2_20240504_172118_0000.pdf" />
   <img alt="Backlog das sprints" src="./Backlog das sprints.jpg" />
 </p>
 
@@ -84,9 +91,6 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 <p align="center">
 <img alt="Banner de agredecimento" src="./Grafico Burndown.jpeg" />
 </p>
-
-
-
 
 ## Sprint 1. Concepção
 - [x] Aprendizado para desenvolvimento do GitHub;
