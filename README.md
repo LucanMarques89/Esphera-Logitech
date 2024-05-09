@@ -104,11 +104,12 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Power BI (introdução);
 - [x] Mapeamento aéreo;
-- [ ] Desenvolver painel principal.    
+- [x] Top 10 exportações    
       
 ## Sprint 3 . Implementação
-- [ ] Prospecção de possíveis cargas 
-- [ ] Integrar dados de vendas ao dashboard principal
+- [ ] Filtragem de dados 
+- [ ] Manual do dashboard
+- [ ] Ajustes finais 
       
 ## Sprint 4. Operacionalização
 - [ ] Apresentação Final;
