@@ -80,10 +80,6 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 
 
 
-<!-- ## Backlof das sprints! :sparkles: -->
-<img alt="Backlog das sprints" src="./sprint 1 backlog.jpg" />
-</p>
-
 # Gráfico Burndown
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
