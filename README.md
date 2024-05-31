@@ -63,8 +63,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01| 15/04/2024 | concluído | [Ver Relatório](https://docs.google.com/document/d/1AmRol6xZsHtZ5m1bv4k6zb7-HmuuqM6j/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true) 
 |02| 06/05/2024 | concluído | [Ver Relatório](https://docs.google.com/document/d/1kLahfb1au9CLU7eJ5duLynG-aBvHHLDP/edit) |
-|03| 27/05/2024 |concluído | [Ver Relatório].(https://drive.google.com/file/d/1QgxMuGkRDbJQKttz_v_gnec2_th6_DBF/view?usp=drivesdk
-|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 27/05/2024 |concluído | [Ver Relatório](https://drive.google.com/file/d/1QgxMuGkRDbJQKttz_v_gnec2_th6_DBF/view?usp=drivesdk)
+|04| 06/06/2024 |a fazer | [Ver Relatório](https://drive.google.com/file/d/1QgxMuGkRDbJQKttz_v_gnec2_th6_DBF/view)
+|Feira de Soluções| 27/06/2024 |a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Gestão do Projeto
 
