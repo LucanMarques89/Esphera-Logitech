@@ -118,9 +118,9 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 - [x] Top 10 exportações    
       
 ## Sprint 3 . Implementação
-- [ ] Filtragem de dados 
-- [ ] Manual do dashboard
-- [ ] Ajustes finais 
+- [x] Filtragem de dados 
+- [x] Manual do dashboard
+- [x] Ajustes finais 
       
 ## Sprint 4. Operacionalização
 - [ ] Apresentação Final;
