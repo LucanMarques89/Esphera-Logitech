@@ -81,10 +81,22 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 
 # Gráfico Burndown
 
+## Gráfico burndow da sprint 01
+
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
 <img alt="Banner de agredecimento" src="./Grafico Burndown.jpeg" />
 </p>
+
+## Gráfico burndown da sprint 02
+
+![image](https://github.com/LucanMarques89/Esphera-Logitech/assets/165221494/970b25a7-e014-43d0-8843-96fab944e0db)
+
+
+## Gráfico burndown da sprint 03
+
+![image](https://github.com/LucanMarques89/Esphera-Logitech/assets/165221494/6c7d03b7-51dd-485c-9ebf-d1907346ce4e)
+
 
 ## Sprint 1. Concepção
 - [x] Aprendizado para desenvolvimento do GitHub;
